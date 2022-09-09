@@ -4,3 +4,7 @@ def first_test():
 
 def second_test():
     assert 2*2 >= 4
+
+
+def third_test():
+    assert 2*2 == 4
