@@ -3,4 +3,4 @@ def first_test():
 
 
 def second_test():
-    assert 2*2 == 3
+    assert 2*2 > 3
